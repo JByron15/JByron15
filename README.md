@@ -6,6 +6,6 @@ Hi there, I'm Joseph Byron 👋
 
 💼 I'm open to collaborating on interesting software projects and contributing to the developer community.
 
-📫 You can reach out to me through email at jbyron15@hotmail.c.uk
+📫 You can reach out to me through email at jbyron15@hotmail.co.uk
 
 Let's build something great together!
