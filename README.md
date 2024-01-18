@@ -12,13 +12,11 @@ I'm open to collaborating on interesting software projects and contributing to t
 📫 **Contact Me**:
 You can reach out to me through email at [jbyron15@hotmail.co.uk](mailto:jbyron15@hotmail.co.uk).
 
-Let's build something great together!
-
 ---
 
 🔭 **What I'm Working On**:
 
-Currently, I'm sharpening my skills in Java and Spring. Here are some of the skills and technologies I work with, displayed horizontally with circular images:
+Currently, I'm sharpening my skills in Java and Spring. Here are some of the skills and technologies I work with:
 
 - ![Java](https://img.shields.io/badge/-Java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white&style=flat-circle) 
 - ![Spring](https://img.shields.io/badge/-Spring-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white&style=flat-circle)
