@@ -1,5 +1,4 @@
 ### Hi! 👋 I'm Joseph.
-### I'm a Java Developer.
 
 🤵🏾‍♂️I'm a Full Stack Developer with expertise in Java, Spring, Angular, React, Node.js, HTML, CSS, and JavaScript. I'm passionate about creating robust and user-friendly software solutions.
 
