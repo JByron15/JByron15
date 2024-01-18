@@ -20,12 +20,12 @@ Let's build something great together!
 
 Currently, I'm sharpening my skills in Java and Spring. Here are some of the skills and technologies I work with:
 
-- ![Java](https://img.shields.io/badge/-Java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white) Java
-- ![Spring](https://img.shields.io/badge/-Spring-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white) Spring
-- ![HTML5](https://img.shields.io/badge/-HTML5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white) HTML5
-- ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white) CSS3
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black) JavaScript
-- ![MySQL](https://img.shields.io/badge/-MySQL-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white) MySQL
-- ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ_IDEA-%23000000.svg?&style=for-the-badge&logo=intellij-idea&logoColor=white) IntelliJ IDEA
-- ![Git](https://img.shields.io/badge/-Git-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white) Git
-- ![LeetCode](https://img.shields.io/badge/-LeetCode-%23FAF0E6.svg?&style=for-the-badge&logo=leetcode&logoColor=black) LeetCode user kodejo
+- ![Java](https://img.shields.io/badge/-Java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white) 
+- ![Spring](https://img.shields.io/badge/-Spring-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white)
+- ![HTML5](https://img.shields.io/badge/-HTML5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
+- ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white) 
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black)
+- ![MySQL](https://img.shields.io/badge/-MySQL-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white) 
+- ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ_IDEA-%23000000.svg?&style=for-the-badge&logo=intellij-idea&logoColor=white)
+- ![Git](https://img.shields.io/badge/-Git-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white) 
+- ![LeetCode](https://img.shields.io/badge/-LeetCode-%23FAF0E6.svg?&style=for-the-badge&logo=leetcode&logoColor=black)
