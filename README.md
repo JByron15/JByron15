@@ -18,14 +18,14 @@ Let's build something great together!
 
 🔭 **What I'm Working On**:
 
-Currently, I'm sharpening my skills in Java and Spring. Here are some of the skills and technologies I work with:
+Currently, I'm sharpening my skills in Java and Spring. Here are some of the skills and technologies I work with, displayed horizontally with circular images:
 
-- ![Java](https://img.shields.io/badge/-Java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white) 
-- ![Spring](https://img.shields.io/badge/-Spring-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white)
-- ![HTML5](https://img.shields.io/badge/-HTML5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
-- ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white) 
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black)
-- ![MySQL](https://img.shields.io/badge/-MySQL-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white) 
-- ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ_IDEA-%23000000.svg?&style=for-the-badge&logo=intellij-idea&logoColor=white)
-- ![Git](https://img.shields.io/badge/-Git-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white) 
-- ![LeetCode](https://img.shields.io/badge/-LeetCode-%23FAF0E6.svg?&style=for-the-badge&logo=leetcode&logoColor=black)
+- ![Java](https://img.shields.io/badge/-Java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white&style=flat-circle) 
+- ![Spring](https://img.shields.io/badge/-Spring-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white&style=flat-circle)
+- ![HTML5](https://img.shields.io/badge/-HTML5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white&style=flat-circle)
+- ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white&style=flat-circle) 
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black&style=flat-circle)
+- ![MySQL](https://img.shields.io/badge/-MySQL-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white&style=flat-circle) 
+- ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ_IDEA-%23000000.svg?&style=for-the-badge&logo=intellij-idea&logoColor=white&style=flat-circle)
+- ![Git](https://img.shields.io/badge/-Git-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white&style=flat-circle) 
+- ![LeetCode](https://img.shields.io/badge/-LeetCode-%23FAF0E6.svg?&style=for-the-badge&logo=leetcode&logoColor=black&style=flat-circle)
